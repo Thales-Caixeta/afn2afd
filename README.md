@@ -1,7 +1,7 @@
 # Conversor AFN → AFD 🧠
 
 Trabalho de **Linguagens Formais e Autômatos (LFA)**  
-PUC-GO — Desenvolvido por *Thales Caixeta*.
+PUC-GO — Desenvolvido por _Thales Caixeta_.
 
 ---
 
@@ -15,6 +15,7 @@ O usuário informa o alfabeto, os estados, as transições e o estado inicial, e
 ## ⚙️ Execução
 
 ### 🧩 Compilação
+
 Abra o terminal (PowerShell 7 recomendado) na pasta do projeto e rode:
 
 ```powershell
@@ -22,6 +23,7 @@ javac .\src\main\java\*.java
 ```
 
 ### 🚀 Execução
+
 ```powershell
 java -cp .\src\main\java Main
 ```
@@ -75,14 +77,9 @@ F  = [{q0,q1,q2}]
 ---
 
 ## 🧠 Tecnologias usadas
+
 - **Java 17+**
 - **PowerShell 7**
 - Codificação **UTF-8** habilitada (para símbolos Σ e ε)
 
 ---
-
-## ✨ Autor
-**Thales Moura Machado Caixeta**  
-👨‍💻 Estudante de Ciência da Computação — PUC-GO  
-📍 Goiânia - GO  
-🔗 [GitHub @Thales-Caixeta](https://github.com/Thales-Caixeta)
