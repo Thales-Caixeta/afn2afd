@@ -1,0 +1,16 @@
+# === Compilação Java ===
+*.class
+*.jar
+*.log
+
+# === Sistema / IDE ===
+.DS_Store
+Thumbs.db
+*.iml
+.idea/
+.vscode/
+
+# === Backup / Temporários ===
+*.tmp
+*.swp
+*~
